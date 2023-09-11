@@ -6,5 +6,5 @@ A data visualization project to provide an understanding of the current state of
 - Do disabled students feel less inclined towards pursuing STEM majors as compared to non-disabled students? 
 How does the intersectionality of race and sex create more marginalization in STEM education?
 # Methods 
-We cleaned our datasets using HTML and JavaScript and developed interactive data visualizations using the D3 library to communicate our data. Our comprehensive website created using WordPress and HTML encapsulates our motivation, findings, and future work.
+We cleaned our datasets using HTML and JavaScript and developed interactive data visualizations using the D3 library in JavaScript to communicate our data. Our comprehensive website created using WordPress and HTML encapsulates our motivation, findings, and future work.
 
